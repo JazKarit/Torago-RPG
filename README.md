@@ -1,5 +1,5 @@
 # Torago-RPG
-Basic RPG where the player can level up, and equip and use items. 
+Uses C++. Basic RPG where the player can level up, and equip and use items. 
 Has a scrolling ASCII map and some a few different kinds of enemies.
 
 Game Controls:
