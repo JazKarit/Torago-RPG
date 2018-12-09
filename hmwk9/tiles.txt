@@ -1,0 +1,48 @@
+Forest
+.4
+%
+none wolf bandit giant_spider dark_mage dark_knight
+.7 .15 .08 .05 .01 .01
+.5 .20 .10 .10 .07 .03
+
+Plains
+.7
+ 
+none wolf bandit giant_spider dark_mage dark_knight
+.8 .15 .08 .05 .01 .01
+.6  .15 .10 .07 .05 .03
+
+Road
+1.0
+#
+none wolf bandit giant_spider dark_mage dark_knight
+.8 .02 .12 .02 .02 .02
+.3 .05 .50 .07 .03 .05
+
+River
+.25
+~
+none troll wolf bandit giant_spider dark_mage dark_knight
+.5 .20 .10 .10 .08 .01 .01
+.3 .25 .15 .12 .09 .03 .06
+
+City
+.6
++
+none bandit
+.9 .1
+.7 .3
+
+Mountain
+.3
+^
+none troll wolf bandit giant_spider dark_mage sorcerer
+0.0 0.0 0.0 0.0 0.0 0.0 1.0
+0.0 0.0 0.0 0.0 0.0 0.0 1.0
+
+Empty
+0.1
+.
+none
+1.0
+1.0

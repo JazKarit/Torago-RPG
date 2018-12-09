@@ -1,0 +1,38 @@
+wooden_sword 10 atk 3 1 4 0.7
+iron_sword 25 atk 7 1 4 2.5
+steel_sword 40 atk 10 1 4 1.5
+mithril_sword 75 atk 16 1 4 2.0
+valorium_sword 100 atk 21 1 4 2.25
+
+wooden_sheild 8 def 3 1 3 1.5
+iron_sheild 20 def 6 1 3 5.0
+steel_sheild 35 def 10 1 3 2.0
+mithril_sheild 60 def 15 1 3 3.0
+valorium_sheild 80 def 20 1 3 4.0
+
+leather_leggings 5 def 1 1 2 0.5
+iron_leggings 13 def 3 1 2 2.0
+steel_leggings 25 def 4 1 2 1.0
+mithril_leggings 50 def 6 1 2 1.5
+valorium_leggings 70 def 8 1 2 2.0
+
+leather_chestplate 8 def 2 1 1 1.0
+iron_chestplate 20 def 4 1 1 3.0
+steel_chestplate 35 def 5 1 1 1.5
+mithril_chestplate 60 def 7 1 1 2.5
+valorium_chestplate 80 def 10 1 1 3.0
+
+leather_helmet 2 def 1 1 0 0.25
+iron_helmet 6 def 2 1 0 1.0
+steel_helmet 12 def 3 1 0 0.5
+mithril_helmet 25 def 4 1 0 0.75
+valorium_helmet 40 def 5 1 0 1.0
+
+water_bottle 7 hydration 50 0 -1 1.0
+empty_water_bottle 5 hydration 0 0 -1 0.2
+sack_lunch 20 stamina 50 0 -1 1.5
+apple 5 stamina 10 0 -1 0.5
+sandwich 10 stamina 25 0 -1 1.0
+
+health_potion 15 hp 7 0 -1 0.7
+major_health_potion 50 hp 20 0 -1 1.2

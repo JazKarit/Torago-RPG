@@ -1,0 +1,8 @@
+none 0 0 0 0.0 0.0 0
+wolf 3 1 2 0.8 0.6 5
+bandit 5 3 2 0.6 0.5 10
+giant_spider 4 4 3 0.7 0.8 20 
+troll 7 3 6 0.4 0.3 30
+dark_mage 5 3 10 0.75 0.9 40
+dark_knight 8 9 4 0.4 0.7 50
+sorcerer 10 13 11 0.9 0.55 200

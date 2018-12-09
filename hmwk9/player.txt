@@ -1,0 +1,8 @@
+maxHp 10
+hp 10
+atk 5
+def 3
+money 25
+stamina 100
+hydration 100
+carryCap 10
